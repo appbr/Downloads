@@ -1,4 +1,9 @@
-chrome.windows.create({
-    url: "http://www.google.com",
-    incognito: true
-  });
+var a = document.querySelector(".tag");
+var btn = document.querySelector(".btn");
+a.addEventListener("click", teste);
+btn.addEventListener("click", teste);
+
+
+function teste() {
+    
+}
