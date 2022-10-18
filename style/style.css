@@ -94,6 +94,7 @@ button {
     font-family: var(--fonte-padrao);
     font-weight: lighter;
     color: white;
+    font-weight: bold;
     border: none;
     border-radius: 8px;
     font-size: 10px;
