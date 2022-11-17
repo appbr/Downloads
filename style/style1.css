@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+}
+table, td{
+    border: 1px solid black;
+    
+}
+
+table{
+    background-color: gray;
+}
+
+button{
+    position: absolute;
+    bottom: 10vh;
+    padding: 2px 10px;
+}
+
+#msg{
+    position: absolute;
+    bottom: 15vh;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+}
