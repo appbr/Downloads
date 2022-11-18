@@ -34,3 +34,16 @@ button{
     font-weight: bold;
     color: blue;
 }
+
+#head{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#cpu{
+    position: absolute;
+    bottom: 2px;
+    left: 93px;
+}
+
