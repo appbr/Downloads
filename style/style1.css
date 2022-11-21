@@ -9,7 +9,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: skyblue;
+    background-color: black;
 }
 table, td{
     border: 1px solid black;
